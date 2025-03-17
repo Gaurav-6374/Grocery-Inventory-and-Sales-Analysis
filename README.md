@@ -19,3 +19,5 @@ This project analyzes a grocery store’s inventory and sales data to identify k
 ## 🚀 Next Steps  
 - Implement demand forecasting.  
 - Optimize inventory restocking. 
+
+ You can access the dataset [here](https://www.kaggle.com/code/gauravkumar6374/grocery-inventory-sales-analysis-project-3)
